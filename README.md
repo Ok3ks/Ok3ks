@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ok3ks
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning HTML,CSS and JS
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me freelanceokeks@gmail.com
 
