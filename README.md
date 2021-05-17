@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ok3ks
+- 👋 Hi, I’m Emmanuel Okedele
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects with a front-end developer
 - 📫 How to reach me freelanceokeks@gmail.com
 
 <!---
