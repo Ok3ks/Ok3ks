@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Okedele
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Backend Development and Data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects with a front-end developer
 - 📫 How to reach me freelanceokeks@gmail.com
