@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayodeji Emmanuel Okedele
 - 👀 I’m interested in Web development, Blockchain development and Data science
 - 🌱 I write Python,SQL 
-- 💞️ I’m looking to contribute on open-source projects and work in teams 
+- 💞️ I’m looking to contribute to open-source projects and work in global developmental teams
 - 📫 How to reach me okedeleayodeji60@outlook.com, you can also reach me on twitter @ok3ks
 
 <!---
