@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Okedele
-- 👀 I’m interested in Data science and Backend Development
+- 👀 I’m interested in Data science,ML, Backend Development
 - 🌱 I write Python,SQL 
-- 💞️ I’m looking to contribute to open-source projects and work in global developmental teams
+- 💞️ I’m looking to contribute to open-source projects and work in data science teams
 - 📫 How to reach me okedeleayodeji60@outlook.com, you can also reach me on twitter @ok3ks
 
 <!---
