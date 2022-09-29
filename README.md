@@ -1,4 +1,4 @@
-Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science, Data Engineering and Machine Learning roles. My tool stack is Python, SQL, GCP. 
+Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science, Data Engineering and Machine Learning roles. My tool stack is Python, SQL, GCP,Pytorch 
 
 Projects I have worked on include: 
 
