@@ -1,4 +1,4 @@
-Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science, Data Engineering and Machine Learning roles. With knowledge of deep learning, Natural Language Processing, My tool stack is Python, SQL, GCP, Pytorch.
+Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science, Data Engineering and Machine Learning roles. With knowledge of deep learning, Natural Language Processing
 
 Projects I have worked on include: 
 
@@ -8,4 +8,4 @@ Projects I have worked on include:
 - Color detection of square blocks using image processing techniques such as noise removal,image registration, segmentation in MATLAB(https://github.com/Ok3ks/Image-Segmentation)
 
 
-In my spare time, I watch sitcoms, football and read articles. On the occasion that you need my attention, perhaps for a project or a role, you can reach me via my [email](okedeleayodeji60@outlook.com)
+In my spare time, I watch sitcoms, football and read articles. On the occasion that you need my attention, perhaps for a project or a role, you can reach me via my [email](freelanceokeks@gmail.com)
