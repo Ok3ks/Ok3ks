@@ -1,4 +1,4 @@
-Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science and Machine Learning roles. W
+Hi 👋. I’m Ayodeji Emmanuel Okedele. I'm interested in Data Science and Machine Learning roles.
 
 Projects I have worked on include: 
 
