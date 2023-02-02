@@ -4,7 +4,7 @@ Projects I have worked on include:
 
 TABULAR DATA AND DATA ANALYSIS
 
--Analysis of FPL and Sports Data
+-Clustering and Analysis of FPL Data
 (https://github.com/Ok3ks/FPL/)
 
 - Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
