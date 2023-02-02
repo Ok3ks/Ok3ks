@@ -4,6 +4,9 @@ Projects I have worked on include:
 
 TABULAR DATA AND DATA ANALYSIS
 
+-Analysis of FPL and Sports Data
+(https://github.com/Ok3ks/FPL/)
+
 - Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
 
 - Using Bias free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML).
