@@ -3,7 +3,7 @@ Hi 👋. I’m Ayodeji Emmanuel Okedele. I exist at the intersection of software
 DATA ANALYSIS
 
 - Clustering and Analysis of FPL Data
-(https://github.com/Ok3ks/FPL/)
+(https://github.com/Ok3ks/Sports)
 
 - Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
 
@@ -19,4 +19,5 @@ IMAGE PROCESSING
 
 NATURAL LANGUAGE PROCESSING
 
-Sentiment analysis of movie reviews using Tfidf Naive Bayes, GPT-
+- Sentiment analysis of movie reviews using Tfidf Naive Bayes, SVM and GPT-3.5 (https://github.com/Ok3ks/sent_analysis.git)
+- Sentence completion using n-gram language modeling, BERT masked language model (https://github.com/Ok3ks/Microsoft_sentence_completion)
