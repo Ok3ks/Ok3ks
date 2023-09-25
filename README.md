@@ -1,4 +1,4 @@
-Hi 👋. I’m Ayodeji Emmanuel Okedele. I exist at the intersection of software engineering and data. 
+Hi 👋. I’m Emmanuel. My experience and education put me at the intersection of software engineering and data. My interests however, take me to new territories
 
 DATA ANALYSIS
 
