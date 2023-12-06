@@ -1,15 +1,13 @@
-Hi 👋. I’m Emmanuel. My experience and education put me at the intersection of software engineering and data. My interests however, take me to new territories
+Hi 👋. I’m Emmanuel. My experience and education put me at the intersection of software engineering and data. My free-time hobbies however, take me to new territories
 
-DATA ANALYSIS
-
-- Clustering and Analysis of FPL Data
-(https://github.com/Ok3ks/Sports)
+BACKEND + WEB DEVELOPMENT
+- Building an analysis tool by consuming Json Data from APIs - Work in Progess (https://github.com/Ok3ks/Sports)
 
 - Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
 
-MACHINE LEARNING 
+Predictive Modelling 
 
-- Using Bias free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML).
+- Using Bias-free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML).
 
 - Activity Prediction from Sensor Measurements of several subjects while performing different activities (https://github.com/Ok3ks/Activity_Prediction)
 
