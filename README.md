@@ -17,5 +17,6 @@ IMAGE PROCESSING
 
 NATURAL LANGUAGE PROCESSING
 
+- End-to-end pipeline for political-spending-analysis(https://github.com/Ok3ks/political_spending_uk)
 - Sentiment analysis of movie reviews using Tfidf Naive Bayes, SVM and GPT-3.5 (https://github.com/Ok3ks/sent_analysis.git)
 - Sentence completion using n-gram language modeling, BERT masked language model (https://github.com/Ok3ks/Microsoft_sentence_completion)
