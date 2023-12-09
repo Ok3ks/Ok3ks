@@ -7,7 +7,7 @@ Predictive Modelling
 
 - Using Bias-free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML)
 - Activity Prediction from Sensor Measurements of several subjects while performing different activities (https://github.com/Ok3ks/Activity_Prediction)
-- Other tabular data experiments
+- Other tabular data experiments with pandas (https://github.com/Ok3ks/Tabular_data)
 
 IMAGE PROCESSING
 
