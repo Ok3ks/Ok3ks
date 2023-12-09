@@ -1,5 +1,8 @@
 Hi 👋. I’m Emmanuel. My experience and education put me at the intersection of software engineering and data. My free-time hobbies however, take me to new territories
 
+BACKEND + WEB DEVELOPMENT
+- Building an analysis tool by consuming Json Data from APIs - Work in Progess (https://github.com/Ok3ks/Sports)
+
 Data Analysis with Python
 - Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
 
@@ -19,5 +22,3 @@ NATURAL LANGUAGE PROCESSING
 - Sentence completion using n-gram language modelling, BERT masked language model (https://github.com/Ok3ks/Microsoft_sentence_completion)
 - Classification of Long documents with transformer models (https://github.com/Ok3ks/Disso-COLD/tree/main)
 
-BACKEND + WEB DEVELOPMENT
-- Building an analysis tool by consuming Json Data from APIs - Work in Progess (https://github.com/Ok3ks/Sports)
