@@ -3,9 +3,6 @@ Hi 👋. I’m Emmanuel. My experience and education put me at the intersection 
 BACKEND + WEB DEVELOPMENT
 - Building an analysis tool by consuming Json Data from APIs - Work in Progess (https://github.com/Ok3ks/Sports)
 
-Data Analysis with Python
-- Analysis of IMDB movie data to make recommendations for the next proposed movie (https://github.com/Ok3ks/IMDB_movie_metadata-analysis)
-
 Predictive Modelling 
 
 - Using Bias-free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML)
