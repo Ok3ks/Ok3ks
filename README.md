@@ -1,7 +1,7 @@
 Hi 👋. I’m Emmanuel Okedele
 
 BACKEND + WEB DEVELOPMENT
-- Building an analysis tool by consuming Json Data from APIs - Work in Progess (https://github.com/Ok3ks/Sports)
+- Sports analysis tool  - Work in progress (https://github.com/Ok3ks/Sports)
 
 Predictive Modelling 
 
@@ -17,5 +17,4 @@ NATURAL LANGUAGE PROCESSING
 - End-to-end pipeline for political-spending-analysis(https://github.com/Ok3ks/political_spending_uk)
 - Productization of Sentiment analysis of movie reviews using Tfidf Naive Bayes, SVM and GPT-3.5 (https://github.com/Ok3ks/sent_analysis.git) - Work in Progress
 - Sentence completion using n-gram language modelling, BERT masked language model (https://github.com/Ok3ks/Microsoft_sentence_completion)
-- [RESEARCH] Classification of Long documents with transformer models (https://github.com/Ok3ks/Disso-COLD/tree/main)
 
