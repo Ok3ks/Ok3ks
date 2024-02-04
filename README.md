@@ -6,8 +6,10 @@ BACKEND + WEB DEVELOPMENT
 Predictive Modelling 
 
 - Using Bias-free Machine learning algorithms to predict loan repayment chance of individuals from features such as salary, credit history etc using XGBoost(https://github.com/Ok3ks/Bias_and_ML)
+- Learning from using Spark for Anomaly Detection (https://github.com/Ok3ks/spark_sample_project)
 - Other tabular data experiments with pandas and xgboost for EDA and predictive modelling (https://github.com/Ok3ks/Tabular_data)
 - Activity Prediction from Sensor Measurements of several subjects while performing different activities (https://github.com/Ok3ks/Activity_Prediction)
+
 IMAGE PROCESSING
 
 - Color detection of square blocks using image processing techniques such as noise removal, image registration, segmentation in MATLAB(https://github.com/Ok3ks/Image-Segmentation)
