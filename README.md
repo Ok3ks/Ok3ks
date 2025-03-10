@@ -1,4 +1,4 @@
-Hi 👋. I’m Emmanuel Okedele. Reach out : mailto:okedeleayodeji60@outlook.com
+Hi 👋. I’m Emmanuel Okedele. <a href = "mailto:okedeleayodeji60@outlook.com"> Reach out</a>
 
 BACKEND + WEB DEVELOPMENT
 - Sports analysis tool  - Work in progress (https://github.com/Ok3ks/Sports)
