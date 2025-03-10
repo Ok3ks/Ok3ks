@@ -1,4 +1,4 @@
-Hi 👋. I’m Emmanuel Okedele
+Hi 👋. I’m Emmanuel Okedele. Reach out : mailto:okedeleayodeji60@outlook.com
 
 BACKEND + WEB DEVELOPMENT
 - Sports analysis tool  - Work in progress (https://github.com/Ok3ks/Sports)
