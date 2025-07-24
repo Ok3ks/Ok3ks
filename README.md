@@ -1,5 +1,3 @@
-Hi 👋. I’m Emmanuel Okedele. <a href = "mailto:okedeleayodeji60@outlook.com"> Reach out</a>
-
 BACKEND + WEB DEVELOPMENT
 - Sports analysis tool  - Work in progress (https://github.com/Ok3ks/Sports)
 
@@ -18,6 +16,9 @@ Predictive Modelling
 
 NLP research projects
 - End-to-end pipeline for political-spending-analysis(https://github.com/Ok3ks/political_spending_uk)
-- Productization of Sentiment analysis of movie reviews using Tfidf Naive Bayes, SVM and GPT-3.5 (https://github.com/Ok3ks/sent_analysis.git) - Work in Progress
+- Productization of Sentiment analysis of movie reviews using Tfidf Naive Bayes, SVM and GPT-3.5 (https://github.com/Ok3ks/sent_analysis.git)
 - Sentence completion using n-gram language modelling, BERT masked language model (https://github.com/Ok3ks/Microsoft_sentence_completion)
+
+
+Hi 👋. I’m Emmanuel Okedele. <a href = "mailto:okedeleayodeji60@outlook.com"> Reach out</a>
 
