@@ -5,5 +5,5 @@ Serial Open Source Contributions so far :
 <a href = "https://github.com/pymc-devs/pymc/pull/7854"> #7854 </a>
 
 
-Hi 👋. I’m Emmanuel Okedele, a Full Stack ML Engineer <a href = "mailto:okedeleayodeji60@outlook.com"> Reach out</a>
+Hi 👋. I’m Emmanuel Okedele, a backend/devops/ML Engineer <a href = "mailto:okedeleayodeji60@outlook.com"> Reach out</a>
 
