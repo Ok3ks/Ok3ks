@@ -4,9 +4,6 @@ Serial Open Source Contributions so far :
 <a href = "https://github.com/aio-libs/aiohttp/pull/9728"> #9728 </a>
 <a href = "https://github.com/pymc-devs/pymc/pull/7854"> #7854 </a>
 
-Open issue:
-<a href = "https://github.com/SeekStorm/SeekStorm/issues/56" > </a>
-
 
 Hi 👋. I’m Emmanuel Okedele, a software engineer/ML Engineer
 
