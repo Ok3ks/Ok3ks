@@ -5,5 +5,5 @@ Serial Open Source Contributions so far :
 <a href = "https://github.com/pymc-devs/pymc/pull/7854"> #7854 </a>
 
 
-Hi 👋. I’m Emmanuel Okedele, a software engineer/ML Engineer
+Hi 👋. I’m Emmanuel Okedele, a software engineer/ML Engineer. In addition to pinned projects. Co-contributed to <a href = "https://github.com/HAKSOAT/acho"> Acho </a>
 
