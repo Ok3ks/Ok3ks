@@ -1,3 +1,5 @@
+Hi 👋. I’m Emmanuel, Full Stack Engineer with exposure to AI Safety, building both traditional applications, and AI-enabled applications. In addition to pinned projects.
+
 Serial Open Source Contributions so far : 
 <a href = "https://github.com/opsdroid/opsdroid/pull/2046" > #2046 </a>
 <a href = "https://github.com/aio-libs/aiohttp/pull/9745"> #9745 </a>
@@ -5,5 +7,5 @@ Serial Open Source Contributions so far :
 <a href = "https://github.com/pymc-devs/pymc/pull/7854"> #7854 </a>
 
 
-Hi 👋. I’m Emmanuel Okedele, a software engineer/ML Engineer. In addition to pinned projects. Co-contributed to <a href = "https://github.com/HAKSOAT/acho"> Acho </a>
+ Co-contributed to <a href = "https://github.com/HAKSOAT/acho"> Acho </a>
 
