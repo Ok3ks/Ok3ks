@@ -1,4 +1,4 @@
-Hi 👋. I’m Emmanuel, Full Stack Engineer with exposure to AI Safety, building both traditional applications, and AI-enabled applications. In addition to pinned projects.
+Hi 👋. I’m Emmanuel, Backend/Devops/ML Engineer with exposure to  Data Science Research Methods,  AI Safety, building both traditional applications, and AI-enabled applications. In addition to pinned projects.
 
 Serial Open Source Contributions so far : 
 <a href = "https://github.com/opsdroid/opsdroid/pull/2046" > #2046 </a>
