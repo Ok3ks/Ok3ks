@@ -1,4 +1,4 @@
-Hi 👋. I’m Emmanuel, a Software engineer with exposure to  Data Science Research Methods,  AI Safety, building both traditional web applications, and AI-enabled applications. In addition to pinned projects.
+Hi 👋. I’m Emmanuel, a full-stack software engineer working on AI/ML Research and Applications. In addition to pinned projects. Blog at ok3ks.github.io/blog
 
 Serial Open Source Contributions so far : 
 <a href = "https://github.com/opsdroid/opsdroid/pull/2046" > #2046 </a>
